@@ -1,0 +1,1 @@
+in this file the command which is running will transfer this file from local to server 
